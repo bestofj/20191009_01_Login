@@ -13,7 +13,7 @@
         android:layout_width="200dp"
         android:layout_height="94dp"
         android:scaleType="fitCenter"
-        android:src="@drawable/hyundai_001"
+        android:src="@drawable/samsung_001"
         android:layout_gravity="center"/>
 
     <TextView
